@@ -1,0 +1,9 @@
+.bit{
+    width: 600px;
+    background-color: red;
+}
+@media (max-width:900px){
+    .bit{
+        width: 200px;
+    }
+}

@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --color-primary: #004FA8;
+    --color-second: #FFFFFF;
+    --color-thirt: #EB5454 ;
+}
+.container{
+   margin-left: auto;
+   margin-right: auto; 
+}
+.section-1{
+    width: 100vh;
+}
+.wrap-1{
+    display: flex;
+    justify-content: flex-end;
+}
+.wrap-1__box{
+width: 717px;
+height: 15px;
+top: 16px;
+padding-left: 15px;
+}
